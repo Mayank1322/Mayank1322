@@ -2,7 +2,9 @@
 - 👀 I’m interested in java|Data Analysis|Coading
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me http://www.linkedin.com/in/mayank-gaur-java
+- 📫 How to reach me www.linkedin.com/in/mayankgaur268
+Vanity URL name
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
